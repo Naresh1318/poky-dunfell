@@ -1,0 +1,15 @@
+[submodule "meta-jumpnow"]
+	path = meta-jumpnow
+	url = https://github.com/jumpnow/meta-jumpnow
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = git://git.yoctoproject.org/meta-raspberrypi
+[submodule "meta-security"]
+	path = meta-security
+	url = git://git.yoctoproject.org/meta-security.git
